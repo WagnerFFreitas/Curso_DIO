@@ -1,3 +1,3 @@
-# DIO-Bootcamps
-Desenvolvimento de jogos:
+# DIO
+Bootcamps Desenvolvimento de jogos:
 HTML
